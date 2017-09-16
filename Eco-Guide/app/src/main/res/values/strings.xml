@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Eco-Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_personal_care">Personal_Care</string>
+    <string name="title_activity_food">Food</string>
+    <string name="title_activity_household">Household</string>
+    <string name="title_activity_baby">Baby</string>
+    <string name="title_activity_main2">Eco-Guide</string>
+    <string name="title_activity_shamp">Shampoo</string>
+    <string name="title_activity_tooth">Tooth</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Eco-Guide</string>
+    <string name="slide_1_desc">The easiest way to check the products impact on environment!</string>
+
+    <string name="slide_2_title">Compare</string>
+    <string name="slide_2_desc">Compare products impact!</string>
+
+    <string name="slide_3_title">Healthy Life</string>
+    <string name="slide_3_desc">Live a healthy life</string>
+
+    <string name="slide_4_title">Start</string>
+    <string name="slide_4_desc">Start, You are ready!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
